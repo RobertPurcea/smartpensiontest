@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smartpensiontest/static/css/main.724410d9.chunk.css",
+    "main.js": "/smartpensiontest/static/js/main.47d0220f.chunk.js",
+    "main.js.map": "/smartpensiontest/static/js/main.47d0220f.chunk.js.map",
+    "runtime~main.js": "/smartpensiontest/static/js/runtime~main.2028403d.js",
+    "runtime~main.js.map": "/smartpensiontest/static/js/runtime~main.2028403d.js.map",
+    "static/js/2.8ad9deff.chunk.js": "/smartpensiontest/static/js/2.8ad9deff.chunk.js",
+    "static/js/2.8ad9deff.chunk.js.map": "/smartpensiontest/static/js/2.8ad9deff.chunk.js.map",
+    "index.html": "/smartpensiontest/index.html",
+    "precache-manifest.362154a2585a0fb401eac85fbaeba63c.js": "/smartpensiontest/precache-manifest.362154a2585a0fb401eac85fbaeba63c.js",
+    "service-worker.js": "/smartpensiontest/service-worker.js",
+    "static/css/main.724410d9.chunk.css.map": "/smartpensiontest/static/css/main.724410d9.chunk.css.map"
+  }
+}
